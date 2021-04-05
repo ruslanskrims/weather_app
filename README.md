@@ -4,7 +4,7 @@
 
 ##### #1 Прогноз Погоды
 
-![alt text](https://raw.githubusercontent.com/RusKrim/forecast_react_app/master/src/bus/forecast/assets/img/mockup.png "Weather App Mockup")
+![alt text](https://raw.githubusercontent.com/RusKrim/weather_app/main/src/bus/forecast/assets/img/mockup.png "Weather App Mockup")
 
 #####Техническое задание
 
