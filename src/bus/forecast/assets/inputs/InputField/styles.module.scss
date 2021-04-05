@@ -1,0 +1,35 @@
+.custom_input {
+  margin-bottom: 26px;
+  label {
+    display: inline-block;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #fff;
+    margin-right: 14px;
+  }
+  input {
+    border-bottom: solid 1px #fff;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    background: transparent;
+    width: 40px;
+    outline: none;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+  }
+}
+.error {
+  color: crimson;
+  border: 2px solid crimson;
+  display: block;
+  width: 300px;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}

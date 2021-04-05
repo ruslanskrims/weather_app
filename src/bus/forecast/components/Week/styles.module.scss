@@ -1,0 +1,12 @@
+.forecast {
+  display: flex;
+  margin-bottom: 40px;
+  cursor: pointer;
+  flex-direction: row;
+}
+
+.err_response {
+  color: #fff;
+  text-align: center;
+  padding-top: 50px;
+}
